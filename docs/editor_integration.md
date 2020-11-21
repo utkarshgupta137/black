@@ -255,7 +255,7 @@ Sublime Text, Visual Studio Code and many more), you can use the
 
 ## Atom/Nuclide
 
-Use [python-black](https://atom.io/packages/python-black).
+Use [python-black](https://atom.io/packages/python-black) or [formatters-python](https://atom.io/packages/formatters-python).
 
 ## Gradle (the build tool)
 
